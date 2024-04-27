@@ -16,7 +16,7 @@ Implement functions to generate predictions on the test set and calculate accura
 Vary the regularization parameter of the SVM and tabularize and plot the accuracy. You can use the following values: [0.001, 0.1, 1, 10, 100]. Observe the changes in the parameter values (by observing the mean, maximum, etc.) as the value of the regularization parameter is changed.
 
 
-##Part B: Kernel Tricks 
+## Part B: Kernel Tricks 
 The ”kernel trick” in Support Vector Machines (SVMs) is a clever mathematical technique thatallows SVMs to operate in a higher-dimensional space without explicitly calculating the transfor-mations.  This not only saves computational resources but also opens up a variety of usage scenariosby enabling SVMs to handle different types of data distributions and complexities.
 
 ### Impact of Various Kernels
