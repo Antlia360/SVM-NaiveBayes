@@ -36,7 +36,7 @@ Reuse training and testing datasets from Part A.
 Train SVM models with different degrees of the polynomial kernel and different 'C' values. Plot and tabulate the test and train accuracy to showcase overfitting and underfitting.
 
 
-### Naive Bayes
+# Naive Bayes
 
 #### Part A: Probability
 
